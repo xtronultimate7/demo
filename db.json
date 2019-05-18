@@ -5,7 +5,7 @@
    "next_page_token":"here is token too long",
    "results":
       {
-         "geometry":{
+      
             "location":{
                "lat":-33.87036190000001,
                "lng":151.1978505
@@ -20,6 +20,6 @@
                   "lng":151.1964535697085
                }
             }
-         }
+        
       }
 }
