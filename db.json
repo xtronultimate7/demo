@@ -3,7 +3,7 @@
 
    ],
    "next_page_token":"here is token too long",
-   "results":[
+   "results":
       {
          "geometry":{
             "location":{
@@ -22,5 +22,4 @@
             }
          }
       }
-      ]
 }
