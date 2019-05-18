@@ -1,26 +1,12 @@
 {
-   "html_attributions":[
-      "id": 1
-   ],
-   "next_page_token":"here is token too long",
+    "id":1,
    "results":
       {
-      "id": 1,
+          
             "location":{
                "id": 1,
                "lat":-33.87036190000001,
                "lng":151.1978505
-            },
-            "viewport":{
-               "northeast":{
-                  "lat":-33.8690182697085,
-                  "lng":151.1991515302915
-               },
-               "southwest":{
-                  "lat":-33.8717162302915,
-                  "lng":151.1964535697085
-               }
             }
-        
       }
 }
